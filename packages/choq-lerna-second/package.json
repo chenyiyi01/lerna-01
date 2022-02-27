@@ -1,6 +1,6 @@
 {
   "name": "choq-lerna-second",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "choq-lerna-first": "^1.0.0"
+    "choq-lerna-first": "^1.0.1"
   }
 }
