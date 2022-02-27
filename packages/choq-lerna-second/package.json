@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "choq-lerna-first": "^1.0.1"
-  }
+  },
+  "gitHead": "4711d0ac744d6dac3fdeb54019d9f0456342330a"
 }
